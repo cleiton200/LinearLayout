@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="click_me">Click me!</string>
+    <string name="meu_texto">Meu texto</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="seguros_xpto">Seguros XPTO</string>
+    <string name="servi_os">Serviços</string>
+    <string name="autom_veis">Automóveis</string>
+    <string name="im_veis">Imóveis</string>
+    <string name="novidades">Novidades</string>
+    <string name="Explicativo">Descontoi de 5% as assinar esse mês</string>
+    <string name="precisa_de_ajuda">Precisa de ajuda?</string>
+    <string name="entre_em_contado">Entre em contado</string>
+    <string name="ol_mundo">Olá mundo</string>
+    <string name="lindao">Lindao</string>
+
+
+</resources>
